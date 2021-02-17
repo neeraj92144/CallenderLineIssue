@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.1)
+  - JTAppleCalendar (7.1.8)
+  - MBProgressHUD (1.2.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - JTAppleCalendar (~> 7.0)
+  - MBProgressHUD
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JTAppleCalendar
+    - MBProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  JTAppleCalendar: b7fb40852f5f319fe55c8ec3861f1de0edc99cc8
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 3a4ffcb4e96b51c697ace002b68728ef196c22c7
+
+COCOAPODS: 1.10.1
